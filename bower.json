@@ -1,0 +1,25 @@
+{
+  "name": "angular-toastr-directive",
+  "main": "angular-toastr-directive.js",
+  "homepage": "https://github.com/lsntomaszw/angular-toastr-directive",
+  "authors": [
+    "tomasz wawrzyniak <tomek@lsnova.pl>"
+  ],
+  "description": "angujarjs directive for jQuery Toastr",
+  "moduleType": [],
+  "keywords": [
+    "Toastr",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "toastr": "~2.1.2"
+  }
+}
